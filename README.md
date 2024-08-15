@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DanoneQuin
+- 👋 Hi, I’m @EduQuin
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning cmsp, alura and scratch`s
 - 💞️ I’m looking to collaborate on ...
